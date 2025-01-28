@@ -7,8 +7,8 @@ from aiogram.fsm.state import State, StatesGroup
 import pandas as pd
 import asyncio
 
-# Константы
-API_TOKEN = "7925472616:AAG7YFA54h8llVbOjJuBrVvH1igpfhKxhD4"
+# Константы (токен в отждельном закрытом файле)
+API_TOKEN = "TOKEN" 
 ADMIN_ID = 857663686  # Замените на ID администратора
 DATA_FILE = "Pantone.xlsx"
 
